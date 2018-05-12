@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1685
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Stuart_Phelps_Ward
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33486#Songs-of-the-Silent-World-and-Other-Poems
 gutenberg_issued: '2010-11-23'
 gutenberg_type: Text
 identifiers:
